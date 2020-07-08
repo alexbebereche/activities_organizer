@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.852
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Activities_organizer", "Activities_organizer\Activities_organizer.csproj", "{DD7941DE-8C9F-4B6D-83F9-8181E5BB1744}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ControlsLibrary", "ControlsLibrary\ControlsLibrary.csproj", "{DE80C8A7-3735-4D3B-9AB9-832BDC61632B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DD7941DE-8C9F-4B6D-83F9-8181E5BB1744}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD7941DE-8C9F-4B6D-83F9-8181E5BB1744}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD7941DE-8C9F-4B6D-83F9-8181E5BB1744}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD7941DE-8C9F-4B6D-83F9-8181E5BB1744}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE80C8A7-3735-4D3B-9AB9-832BDC61632B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE80C8A7-3735-4D3B-9AB9-832BDC61632B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE80C8A7-3735-4D3B-9AB9-832BDC61632B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE80C8A7-3735-4D3B-9AB9-832BDC61632B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {94543A2D-F304-4582-A4B0-64A7E5BF8BDA}
+	EndGlobalSection
+EndGlobal
